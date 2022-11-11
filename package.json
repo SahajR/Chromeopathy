@@ -36,7 +36,7 @@
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.11.0",
-    "copy-webpack-plugin": "^4.1.1",
+    "copy-webpack-plugin": "^4.6.0",
     "crx": "^3.2.1",
     "crx-webpack-plugin": "^0.1.5",
     "shebang-loader": "0.0.1",
